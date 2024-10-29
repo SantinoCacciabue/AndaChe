@@ -1,0 +1,12 @@
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\bin\Debug\AndaChe.exe.config
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\bin\Debug\AndaChe.exe
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\bin\Debug\AndaChe.pdb
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.csproj.AssemblyReference.cache
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.Agregar.resources
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.Form1.resources
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.Properties.Resources.resources
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.csproj.GenerateResource.cache
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.csproj.CoreCompileInputs.cache
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.exe
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.pdb
+C:\Users\santy\OneDrive\Escritorio\UTN\AndaChe\AndaChe\obj\Debug\AndaChe.AgregarVehiculo.resources
